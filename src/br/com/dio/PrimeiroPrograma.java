@@ -4,7 +4,20 @@ import br.com.dio.model.Gato;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
-       int a, b;
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*int a, b;
 
        a = 5;
        b = 6;
@@ -16,7 +29,7 @@ public class PrimeiroPrograma {
            resultado = "falso";
 
         System.out.println(resultado);
-
+*/
 
 
 
